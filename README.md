@@ -125,10 +125,10 @@ java -jar target/loja-1.0-SNAPSHOT-all.jar
 
 | Usuário | Senha      | Função    |
 | ------- | ---------- | --------- |
-| admin   | admin123   | ADMIN     |
-| joao    | joao123    | EMPLOYEE  |
-| maria   | maria123   | EMPLOYEE  |
-| ana     | ana123     | EMPLOYEE  |
+| admin   | admin   | ADMIN     |
+| joao    | joao    | EMPLOYEE  |
+| maria   | maria   | EMPLOYEE  |
+| ana     | ana     | EMPLOYEE  |
 
 ---
 
