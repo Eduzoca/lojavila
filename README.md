@@ -1,4 +1,4 @@
-# Loja Vila
+ Loja Vila
 
 Aplicação desktop Java Swing para gerenciamento de uma loja simples, com produtos, vendas e relatórios. Utiliza Maven, MySQL e FlatLaf para o look-and-feel.
 
@@ -62,7 +62,7 @@ Aplicação desktop Java Swing para gerenciamento de uma loja simples, com produ
       ('joao',  '$2a$10$K7pZLBU7JjEUIZ6y/8h8fu0JTIeXJUox.sIwpFGRZz3uEeQvJjVDi', 'EMPLOYEE'),
       ('maria', '$2a$10$Y7M9bInRGNVTn3HyltlH2uyuHkQIgP0xkMCY6yJwLtjn57bVtEJFe', 'EMPLOYEE'),
       ('ana',   '$2a$10$U6tNS8z.Hh3QXZxGJYKfSeKXic2ARssd8NF9l8R.S8sxcnZBJbQS6', 'EMPLOYEE');
-    -- (essas hashes correspondem a "admin123", "joao123", "maria123", "ana123")
+    -- (essas hashes correspondem a "admin", "joao", "maria", "ana")
 
     -- Popula produtos
     INSERT INTO products (name, price, quantity) VALUES
